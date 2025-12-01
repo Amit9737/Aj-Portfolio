@@ -503,7 +503,7 @@ export default function HomePage() {
                     </div>
                   </div>
 
-                  <div className="w-1/3 mx-auto py-2">
+                  <div className="lg:w-1/3 mx-auto py-2 text-center">
                     <a
                       href={C.path}
                       className="text-sm px-3 py-2 rounded-md bg-indigo-600 text-center"
