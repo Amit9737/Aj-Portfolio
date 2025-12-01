@@ -557,9 +557,7 @@ export default function HomePage() {
                   >
                     Send Message
                   </button>
-                  <button type="button" className="px-4 py-2 rounded-lg border">
-                    Clear
-                  </button>
+                 
                 </div>
               </form>
             </div>
