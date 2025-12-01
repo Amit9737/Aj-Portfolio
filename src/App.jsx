@@ -509,7 +509,7 @@ export default function HomePage() {
                       className="text-sm px-3 py-2 rounded-md bg-indigo-600 text-center"
                       target="_blank"
                     >
-                      Download Certificate
+                      View Certificate
                     </a>
                   </div>
                 </div>
